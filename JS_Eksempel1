@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tittel</title>
+    <script>
+        function move_box(box_id){
+            document.getElementById(box_id).style.position = "absolute";
+            document.getElementById(box_id).style.top = 
+        }
+    </script>
+</head>
+
+<body>
+
+</body>
+</html>
